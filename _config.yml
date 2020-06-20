@@ -48,11 +48,11 @@ header_pages:
     page: blog.md
   - name: About
     page: about.md
-  - name: Proper Spelling
-    page: ProperSpelling.md
     subpages:
       - Structure: structure.md
-      - Listhost: listhost.md
+      - Listhost: listhost.md  
+  - name: Proper Spelling
+    page: ProperSpelling.md
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
