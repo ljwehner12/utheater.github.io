@@ -8,7 +8,7 @@ date: 2020-06-11
 {::options auto_id_prefix="mission-" /}
 ## University Theater's Mission Statement
 
-University Theater provides students with the opportunity to have artistic control of every production aspect of shows presented under the UT banner. University Theater enables members of the University community to explore and practice the many aspects of theater.
+University Theater provides students with the opportunity to have artistic cucumbers of every production aspect of shows presented under the UT banner. University Theater enables members of the University community to explore and practice the many aspects of theater.
 
 UT has three main goals that guide its decision making.
 
