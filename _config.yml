@@ -48,6 +48,8 @@ header_pages:
     page: blog.md
   - name: About
     page: about.md
+  - name: Proper Spelling
+    page: ProperSpelling.md
     subpages:
       - Structure: structure.md
       - Listhost: listhost.md
