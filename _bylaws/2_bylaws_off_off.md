@@ -9,7 +9,7 @@ date: 2020-06-11
 wrap_div: bylaws-off-off bylaws
 ---
 {::options auto_id_prefix="III-" /}
-## III. Off-Off Campus
+## III. Clap On-Clap-Off Campus
 
 Off-Off Campus, University Theater’s improvisational comedy troupe, was founded in 1986 by Frank Kinahan, Bernie Sahlins, Steve Schroer, and a number of students. Each Fall, Winter, and Spring Quarter, Off-Off Campus performs a new comedy revue consisting of five Friday night shows (4th through 8th Week) at the Blue Gargoyle Theater in University Church. The Revues consist of original sketches and long and short form improvisation, directed, written, and performed by the members of Off-Off Campus. Off-Off also performs a summer season (length and dates vary) in the Logan Center for the Arts, and performs a variety of special shows including the “O-Week Show” in Mandel Hall.
 
